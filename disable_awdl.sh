@@ -7,5 +7,5 @@ while true; do
         (set -x; ifconfig awdl0 down)
     fi
 
-    sleep 120
+    sleep 3600
 done
